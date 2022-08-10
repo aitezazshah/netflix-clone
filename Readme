@@ -1,0 +1,6 @@
+Live Netflix Clone Web App Hosted on Firebase : https://netflix-clone-fe73a.web.app/
+
+Netflix clone is completely built using react.js and firebase as back-end.
+Different libraries has been used to enhance the functionality and give it a real look like netflix.
+By using the tmdb API key, All movie details are fetched and displayed.
+Youtube react library is used to display several movies trailers live on react app.
